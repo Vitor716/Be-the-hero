@@ -17,16 +17,21 @@ This application was created in one week domining front end, back and mobile usi
 ## 💻 Screenshots
 <table>
 	<tr>
-		<th width="100%">
+		<th width="50%">
 			Web Interface<br>
 		</th>
 	</tr>
 	<tr>
+		<th width="50%">
+			Web Register page<br>
+		</th>
+	</tr>
+	<tr>
 		<td>
-			<img width="50%" src=".github/home.png">
+			<img width="800" src=".github/home.png">
 		</td>
 		<td>
-			<img width="50%" src=".github/home.png">
+			<img width="800" src=".github/home.png">
 		</td>
 	</tr>
 </table>
@@ -39,10 +44,10 @@ This application was created in one week domining front end, back and mobile usi
 	</tr>
 	<tr>
 		<td>
-			<img width="50%" src=".github/home.png">
+			<img width="800" src=".github/home.png">
 		</td>
 		<td>
-		<img width="50%" src=".github/home.png">
+			<img width="800" src=".github/home.png">
 		</td>
 	</tr>
 </table>
