@@ -15,42 +15,49 @@ This application was created in one week domining front end, back and mobile usi
 [Layout](https://www.figma.com/file/2C2yvw7jsCOGmaNUDftX9n/Be-The-Hero---OmniStack-11?node-id=0%3A1) application in figma.
 
 ## 💻 Screenshots
+
 <table>
 	<tr>
 		<th width="50%">
 			Web Interface<br>
 		</th>
-	</tr>
-	<tr>
 		<th width="50%">
 			Web Register page<br>
 		</th>
+	</tr>	
 	</tr>
 	<tr>
 		<td>
 			<img width="800" src=".github/home.png">
 		</td>
 		<td>
-			<img width="800" src=".github/home.png">
+			<img width="800" src=".github/cad-page.png">
 		</td>
 	</tr>
 </table>
 
+
 <table>
 	<tr>
-		<th width="100%">
-			App interface<br>
+		<th width="50%">
+			App Splash<br>
 		</th>
+		<th width="50%">
+			App Interface<br>
+		</th>
+	</tr>	
 	</tr>
 	<tr>
 		<td>
-			<img width="800" src=".github/home.png">
+			<img width="800" src=".github/splashScreen.png">
 		</td>
 		<td>
-			<img width="800" src=".github/home.png">
+			<img width="800" src=".github/mobile.png">
 		</td>
 	</tr>
 </table>
+
+
 
 
 ## 🧾 Features
