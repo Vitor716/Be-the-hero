@@ -12,7 +12,7 @@ Aplication created in 11ª edition of the Semana OmniStack, the application have
 
 This application was created in one week domining front end, back and mobile using JavaScript.
 
-[Layout] (https://www.figma.com/file/2C2yvw7jsCOGmaNUDftX9n/Be-The-Hero---OmniStack-11?node-id=0%3A1) application in figma.
+[Layout](https://www.figma.com/file/2C2yvw7jsCOGmaNUDftX9n/Be-The-Hero---OmniStack-11?node-id=0%3A1) application in figma.
 
 ## 💻 Screenshots
 <table>
