@@ -49,7 +49,7 @@ This application was created in one week domining front end, back and mobile usi
 	</tr>
 	<tr>
 		<td>
-			<img width="800" src=".github/splashScreen.png">
+			<img width="800" src=".github/splashScreen.jpg">
 		</td>
 		<td>
 			<img width="800" src=".github/mobile.png">
