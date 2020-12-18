@@ -26,7 +26,7 @@ This application was created in one week domining front end, back and mobile usi
 			<img width="50%" src=".github/home.png">
 		</td>
 		<td>
-			<img width="50%" src=".github/cad-page.png">
+			<img width="50%" src=".github/home.png">
 		</td>
 	</tr>
 </table>
@@ -39,10 +39,10 @@ This application was created in one week domining front end, back and mobile usi
 	</tr>
 	<tr>
 		<td>
-			<img width="50%" src=".github/splashScreen.png">
+			<img width="50%" src=".github/home.png">
 		</td>
 		<td>
-			<img width="50%" src=".github/mobile.png">
+		<img width="50%" src=".github/home.png">
 		</td>
 	</tr>
 </table>
